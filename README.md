@@ -1,7 +1,18 @@
 ## Olá, <a target="_blank">Liverton</a>! aqui 👊
 
-<a href="https://linkedin.com/in/liverton-abreu-a1a883243/" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Liverton/trying-repos/blob/master/linkedin.svg" />
+<br/>
 
+
+
+<a href="https://linkedin.com/in/liverton-abreu-a1a883243/" target="_blank"><img align="left" alt="Liverton | LinkedIn" width="22px" src="https://github.com/Liverton/trying-repos/blob/master/linkedin.svg" />
+<a href="https://instagram.com/livertafonso" target="_blank"><img align="left" alt="Liverton | Instagram" width="22px" src="https://github.com/Liverton/trying-repos/blob/master/insta.svg" />  
+           
+           
+            
+<br />
+<br />            
+<br />
+            
 - 🔭 Buscando minha primeira vaga como dev junior
 - 🌱 Tenho me aprofundado em Python
 - 👯 Procuro me tornar um desenvolvedor FullStack
@@ -33,9 +44,6 @@
             <a href="https://www.linkedin.com/in/liverton-abreu-a1a883243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
             <a href="https://www.instagram.com/livertafonso/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-
-![Snake animation](https://github.com/Liverton/Liverton/blob/output/github-contribution-grid-snake.svg)
             
 </div>
-            
-           
+                       
