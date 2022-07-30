@@ -1,4 +1,4 @@
-## Olá, <a href="https://Liverton.me" target="_blank">Liverton</a>! aqui 👊
+## Olá, <a target="_blank">Liverton</a>! aqui 👊
 
 <!--
 **Liverton/Liverton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
