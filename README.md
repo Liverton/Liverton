@@ -1,19 +1,10 @@
 ## Olá, <a target="_blank">Liverton</a>! aqui 👊
 
-<!--
-**Liverton/Liverton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<a href="https://linkedin.com/in/liverton-abreu-a1a883243/" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Liverton/trying-repos/blob/master/linkedin.svg" />
 
 - 🔭 Buscando minha primeira vaga como dev junior
 - 🌱 Tenho me aprofundado em Python
 - 👯 Procuro me tornar um desenvolvedor FullStack
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <div>
 <a href="https://github.com/Liverton">
