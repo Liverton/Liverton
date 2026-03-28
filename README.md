@@ -2,12 +2,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&height=70&lines=Ol%C3%A1%2C+Liverton+aqui!;Welcome+to+my+profile!" alt="Typing SVG" />
 </div>
 
-<br>
-            
+<br>      
+
 - 🔭 Dev Backend
 - 🌱 Atualmente estudando React e Django
-
+  
 <br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Liverton/Liverton/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
 
 <div align="left">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Liverton&theme=tokyonight" />
