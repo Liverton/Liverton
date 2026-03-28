@@ -24,9 +24,9 @@
 -->
 
 <div align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Liverton&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Liverton&theme=tokyonight" />
   
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Liverton&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Liverton&show_icons=true&theme=tokyonight&include_all_commits=true" />
 </div>
 
 
