@@ -2,22 +2,33 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&height=70&lines=Ol%C3%A1%2C+Liverton+aqui!;Welcome+to+my+profile!" alt="Typing SVG" />
 </div>
 
-<br>      
-
-- 🔭 Dev Backend
-- 🌱 Atualmente estudando React e Django
-  
-<br>
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Liverton/Liverton/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=1&pause=0&color=70A5FD&center=true&vCenter=true&width=600&height=70&lines=%E2%96%A8%E2%96%A8%E2%96%A8%E2%96%A8%E2%96%A8%E2%96%A8%E2%96%A8%E2%96%A8%E2%96%A8%E2%96%A8%E2%96%A8%E2%96%A8%E2%96%A8%E2%96%A8%E2%96%A8+100%25;STATUS:+SYSTEM+ACTIVE+%E2%9C%94" alt="System Status" />
 </div>
+
+<table align="center">
+  <tr>
+    <td><img src="https://img.icons8.com/neon/96/api.png" width="30"/></td>
+    <td><b>Focado em:</b> Arquitetura Backend e APIs Robustas.</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/neon/96/idea.png" width="30"/></td>
+    <td><b>Estudando:</b> O ecossistema React e Django Framework.</td>
+  </tr>
+</table>
+
+<!-- 
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F2FF&width=600&height=100&lines=🔭+Dev+Backend;🌱+Estudando+React+e+Django;💻+Construindo+soluções+escaláveis;🚀+Focado+em+Clean+Code" alt="Typing SVG" />
+</div>
+-->
 
 <div align="left">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Liverton&theme=tokyonight" />
   
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Liverton&show_icons=true&theme=tokyonight&include_all_commits=true" />
 </div>
+
 
 ### 🚀 Minhas Techs
 
@@ -58,7 +69,9 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=3776AB">
 </a>
 
-<br>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/Liverton/Liverton/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
 
 ### Contato
 
